@@ -1,1 +1,2 @@
 # ranquote
+quote generation
